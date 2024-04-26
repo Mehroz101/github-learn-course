@@ -4,4 +4,5 @@ const  id = 2;
 function show(){
     return name;
 }
-const pass = "pass"
+
+const pass = "pass";
