@@ -5,6 +5,3 @@ function add() {
     console.log (a+b);
 
 }
-function showName(){
-    console.log(name);
-}
