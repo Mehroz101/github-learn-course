@@ -8,3 +8,6 @@ function add() {
 function showName(){
     console.log(name);
 }
+function newfeature(){
+    console.log("test");
+}
