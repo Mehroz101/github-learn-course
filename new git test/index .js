@@ -10,4 +10,5 @@ function showName(){
 }
 function newfeature(){
     console.log("test");
+    console.log("test1");
 }
